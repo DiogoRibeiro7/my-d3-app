@@ -1,0 +1,24 @@
+{
+  "name": "my-d3-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.8.5"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.0",
+    "lite-server": "^2.6.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc"
+  }
+}
+
+
+
+
+
+
